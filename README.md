@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Turksat46
 - 👀 I’m interested in programming some projects
-- 🌱 I’m currently learning Android in Java
+- 🌱 I’m currently learning Kotlin in Java
 - 📫 How to reach me: turksat46@gmail.com
 
 <!---
